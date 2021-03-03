@@ -1,6 +1,14 @@
-# Landing Page Jekyll theme
+# Repository for the website of Charmington IT
+A tiny consultancy firm specialized in mobile app development. More than 10 years of experience in the mobile app industry. Located in Stockholm, Sweden.
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## Charmington IT
-This is the Jekyll repo for website (www.charmington.se)[https://www.charmington.se]
+## Build with Jekyll
+
+Built with [Jekyll](https://jekyllrb.com)
+
+Using Jekyll theme [Landing Page](http://jekyllthemes.org/themes/landing-page/)
+
+Runing on [Github Pages](https://pages.github.com)
+
+Deployed at [www.charmington.se](https://www.charmington.se)
+
