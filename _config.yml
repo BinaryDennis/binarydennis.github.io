@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.charmington.se
+title: Charmington IT
+email: info@charmington.se
+author: Dennis Charmington
+description: > # "Write an awesome description for your new site here. 
+  Ett litet konsultbolag i Stockholm, fokuserad på mobil app-utveckling för iOS, iPadOS, watchOS samt tvOS.
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/binaryDennis
+  - title: github
+    url: https://github.com/binaryDennis
+  - title: linkedin
+    url: https://www.linkedin.com/in/binarydennis/
