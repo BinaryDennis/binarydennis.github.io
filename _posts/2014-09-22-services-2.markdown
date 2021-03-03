@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: code.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Programming languages
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  <b>Swift</b>, <b>SwiftUI</b>, Objective-C, Dart 
