@@ -5,4 +5,4 @@ category: Services
 title: Programming languages
 description: |
 ---
-  <b>Swift</b>, <b>SwiftUI</b>, Objective-C, Dart 
+  <b>Swift</b>, <b>SwiftUI</b>, Dart, Typescript, Objective-C
